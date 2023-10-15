@@ -106,4 +106,7 @@ Due to all of this, I have used `debezium/postgres:15.0` instead of the official
     * Open Kibana in browser - http://localhost:5601
     * Create an index pattern - `postgresql-debezium-postgresql-debezium-.public.orders`
     * View the data in the index
+
+![Screenshot 2023-10-15 at 6 06 18 PM](https://github.com/adimyth/kafka-fundamentals/assets/26377913/dc57169a-08a9-4c91-a813-63085d3e10bf)
+
   
